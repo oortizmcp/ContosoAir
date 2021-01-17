@@ -1,5 +1,5 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/oortizazlabs0233/Contoso-Airline/_apis/build/status/oortizmcp.ContosoAir?branchName=master)](https://dev.azure.com/oortizazlabs0233/Contoso-Airline/_build/latest?definitionId=7&branchName=master) 
 
 # Microsoft.Github CI Demo
 
